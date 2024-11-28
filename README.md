@@ -1,1 +1,1 @@
-# Nonogram_Checker
+# Nonogram Checker
